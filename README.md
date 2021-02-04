@@ -15,7 +15,7 @@ This repository contains **native AngularJS directives** to render a clock face.
 ### Installation
 
 ```
-bower install angular-ui-clock --save
+npm i @xenialab/angular-clock
 ```
 Alternatively files can be downloaded [downloaded from Github](https://github.com/deepu105/angular-clock).
 and copy the files from `dist/`. Then add the sources to your code (adjust paths as needed) after
