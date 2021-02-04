@@ -1,8 +1,11 @@
 {
-  "name": "angular-clock",
-  "version": "0.7.0",
+  "name": "@xenialab/angular-clock",
+  "version": "0.7.1",
   "description": "An angular.js clock widget",
-  "main": "angular-clock.js",
+  "main": "dist/angular-clock.min.js",
+  "files":[
+    "dist"
+  ],
   "directories": {
     "example": "examples"
   },
@@ -10,6 +13,10 @@
     "test": "gulp check"
   },
   "author": "Deepu K Sasidharan <d4udts@gmail.com>",
+  "contributors":[
+    "Andrea Bianco <andrea.bianco@xcally.com>",
+    "Vito Macchia <vito.macchia@xcally.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/deepu105/angular-clock.git"
